@@ -1,6 +1,6 @@
 # HCL Software Enchanted Icons package
 
-Enchanted Icons is a collection of icons that are used in HCL Software products. This package exposes own creations as well as external icons from the (Carbon React Icons Package)[https://github.com/carbon-design-system/carbon/tree/main/packages/icons] and exposes those as ready to use Material-UI components.
+Enchanted Icons is a collection of icons that are used in HCL Software products. This package exposes own creations as well as external icons from the [Carbon React Icons Package](https://github.com/carbon-design-system/carbon/tree/main/packages/icons) and exposes those as ready to use Material-UI components.
 
 (C) 2024 HCL America Inc. Apache-2.0 license [https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
