@@ -7,9 +7,10 @@
 ### Fixed
 
 ### Changed
+-'The "page-add" icon is deprecated and will be removed in future releases. Please use "page--add" instead.'
 
 #### Breaking changes
-
+-
 ## 1.3.0
 
 ### Added
